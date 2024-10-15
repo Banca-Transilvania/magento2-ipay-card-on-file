@@ -8,7 +8,7 @@ This is a plugin for Magento 2 BTRL_Ipay payment module.
 
 | Magento Version                                   | Module Version                                                            |
 |---------------------------------------------------|---------------------------------------------------------------------------|
-| Magento **2.4.x** Opensource (CE) / Commerce (EE) | **1.x.x** latest release: ```composer require btrl/ipay-card-on-file``` |
+| Magento **2.4.x** Opensource (CE) / Commerce (EE) | **1.0.0** latest release: ```composer require btrl/ipay-card-on-file``` |
 
 ### Requirements
 
